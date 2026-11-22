@@ -2,7 +2,7 @@
 CareLoop Clinics – No-Show Guard: An end-to-end data analytics and machine learning project to analyse healthcare appointment no-shows, identify key patterns, predict high-risk bookings, and extract patient absence reasons using Generative AI.
 
 
-GitHub: <paste your public repository link here>
+GitHub: https://github.com/anushkapatel110-ui/Careloop-clinics-no-show-guard-PROJECT.git
 
 # CareLoop Clinics: No-Show Analysis
 
@@ -25,4 +25,4 @@ I chose logistic regression because it had the highest 5-fold cross-validated RO
 
 ## Notes
 - The Gemini free tier returned 429 (daily quota) and 503 (server overload) errors during Part 4. Failed calls were not recorded as results, and I re-ran only the missing notes. The total was 12 successful API calls.
-- Model used for Part 4: <write your MODEL_NAME here>.
+- Model used for Part 4: gemini-4-hydrogen.
