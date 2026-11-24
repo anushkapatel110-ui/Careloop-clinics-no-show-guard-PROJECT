@@ -25,4 +25,4 @@ I chose logistic regression because it had the highest 5-fold cross-validated RO
 
 ## Notes
 - The Gemini free tier returned 429 (daily quota) and 503 (server overload) errors during Part 4. Failed calls were not recorded as results, and I re-ran only the missing notes. The total was 12 successful API calls.
-- Model used for Part 4: gemini-4-hydrogen.
+- Model used for Part 4: gemini-3.6-flash.
